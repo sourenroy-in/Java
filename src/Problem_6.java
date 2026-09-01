@@ -11,11 +11,11 @@ public class Problem_6 {
         System.out.println("Enter 2nd Number: ");
         b = sc.nextInt();
 
-        System.out.println(a + b);
-        System.out.println(a - b);
-        System.out.println(a / b);
-        System.out.println(a * b);
-        System.out.println(a % b);
+        System.out.println("Sum: " + (a + b));
+        System.out.println("Sub: " + (a - b));
+        System.out.println("Mul: " + (a / b));
+        System.out.println("Div: " + (a * b));
+        System.out.println("Mod: " + (a % b));
 
         sc.close();
     }
