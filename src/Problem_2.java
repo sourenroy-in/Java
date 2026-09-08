@@ -1,3 +1,4 @@
+//Program2 Write a program for Multiplication
 public class Problem_2 {
     public static void main(String[] args) {
         int a = 10, b = 2, c;
