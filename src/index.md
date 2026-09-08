@@ -8,11 +8,11 @@
 
 //Problem5 Write java program to find double volume 
 
-// Problem6 Write a java program for simple calculator 
+//Problem6 Write a java program for simple calculator 
 
-// Problem7 Write a java program to find the number is Even od Odd 
+//Problem7 Write a java program to find the number is Even od Odd 
 
-// Problem8 Write a Program using for loop 
+//Problem8 Write a Program using for loop 
 
 //Problem9 Write a program using While Loop 
 
@@ -30,9 +30,9 @@
 
 //Problem16 Swap 2 numbers in java without using 3rd variable
 
-// Problem17 Write a java Program to find greates among 3Numbers
+//Problem17 Write a java Program to find greates among 3Numbers
 
-// Problem18 Write a Java Program for print 1 to N number using Loop 
+//Problem18 Write a Java Program for print 1 to N number using Loop 
 
 //Problem19 Write a java Program to sum 1 to N numbers
 // 
