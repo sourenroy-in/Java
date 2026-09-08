@@ -1,4 +1,4 @@
-// Swap 2 numbers in java
+//Problem15 Swap 2 numbers in java using third variable
 import java.util.Scanner;
 
 public class Problem_15 {

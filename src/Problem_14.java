@@ -1,3 +1,4 @@
+//Program14 Write a java program for sum of n natural numbers
 import java.util.Scanner;
 public class Problem_14 {
     public static void main(String[] args) {

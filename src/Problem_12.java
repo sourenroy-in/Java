@@ -1,3 +1,4 @@
+// Program12 Write a java program for Switch case
 public class Problem_12 {
     public static void main(String[] args) {
         int n = 1;

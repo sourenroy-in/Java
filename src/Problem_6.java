@@ -1,3 +1,4 @@
+//Problem6 Write a java program for simple calculator
 import java.util.Scanner;
 
 public class Problem_6 {

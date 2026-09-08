@@ -1,3 +1,4 @@
+// Problem9 Write a program using While Loop
 public class Problem_9 {
     public static void main(String args[]){
         int n = 10;
