@@ -35,4 +35,8 @@
 //Problem18 Write a Java Program for print 1 to N number using Loop 
 
 //Problem19 Write a java Program to sum 1 to N numbers
-// 
+
+// Problem20 Creating a Array
+
+// Problem21 Sum & average of all Array Elements
+
