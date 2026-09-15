@@ -44,4 +44,6 @@
 
 //Problem23 Sum of Positive & Negetive number
 
-// Example of Continue & Break
+//Problem24 Example of Continue & Break
+
+//Problem25 Write a Java program to add 3 numbers taken as command line arguments.
