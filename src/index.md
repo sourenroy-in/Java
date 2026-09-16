@@ -47,3 +47,5 @@
 //Problem24 Example of Continue & Break
 
 //Problem25 Write a Java program to add 3 numbers taken as command line arguments.
+
+//Problem26 write a java program to Find Even/Odd 
