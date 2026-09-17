@@ -48,4 +48,6 @@
 
 //Problem25 Write a Java program to add 3 numbers taken as command line arguments.
 
-//Problem26 write a java program to Find Even/Odd 
+//Problem26 write a java program to Find Even/Odd
+
+//Problem27 The sum of all Elements using FOR loop
