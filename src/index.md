@@ -55,3 +55,8 @@
 //Problem28 Method Overloading
 
 //Problem29 Method Overloading and Method Overriding in Same Program
+
+//Problem30 Write a Java program to show constructor overloading. There must be at least 3 constructors. You must use “this” keyword in the program.
+
+//Problem31 write a java program to find Armstrong Number!
+
