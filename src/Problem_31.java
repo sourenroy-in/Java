@@ -1,8 +1,9 @@
+
 // Armstrong Number 153
 import java.util.Scanner;
 
 public class Problem_31 {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the number: ");
@@ -15,7 +16,7 @@ public class Problem_31 {
             sum += digit * digit * digit;
             n = n / 10;
         }
-        if(sum == org) {
+        if (sum == org) {
             System.out.println("Armstrong !!");
         } else {
             System.out.println("Not");
