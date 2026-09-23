@@ -60,3 +60,6 @@
 
 //Problem31 write a java program to find Armstrong Number!
 
+//Problem32 Write a java program to find Krishnamurthy Number
+
+//Problem33 Write a java program to find palindrome number
