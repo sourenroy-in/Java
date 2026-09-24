@@ -1,5 +1,4 @@
-
-//
+//write a java program to create Array
 import java.util.Scanner;
 
 public class Problem_34 {
