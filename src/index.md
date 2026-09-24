@@ -63,3 +63,5 @@
 //Problem32 Write a java program to find Krishnamurthy Number
 
 //Problem33 Write a java program to find palindrome number
+
+//Problem34 write a java program to create Array
