@@ -65,3 +65,7 @@
 //Problem33 Write a java program to find palindrome number
 
 //Problem34 write a java program to create Array
+
+//Problem35 Find element in the Array
+
+//Problem36 Send arguments in command line and calculate sum
