@@ -6,7 +6,6 @@ class Box {
 }
 
 public class Problem_4 {
-
     class Demo {
         public static void main(String args[]) {
             Box b1 = new Box();
