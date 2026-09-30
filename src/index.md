@@ -71,3 +71,5 @@
 //Problem36 Send arguments in command line and calculate sum
 
 //Problem37 Class Overloading
+
+//Problem38 find max and min element from Array
