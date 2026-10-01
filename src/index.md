@@ -75,3 +75,5 @@
 //Problem38 find max and min element from Array
 
 //Problem39 String Functions
+
+//Problem40 String Functions
