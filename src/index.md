@@ -79,3 +79,5 @@
 //Problem40 String Functions
 
 //Problem41 Escape charecter
+
+//Problem 42 Array Methods
