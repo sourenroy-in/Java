@@ -7,6 +7,6 @@ public class Problem_10 {
             System.out.println(n);
             n++;
         } while (n <= 5);
-        
+
     }
 }
