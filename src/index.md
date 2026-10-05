@@ -80,4 +80,5 @@
 
 //Problem41 Escape charecter
 
-//Problem 42 Array Methods
+//Problem 42 Type casting
+
