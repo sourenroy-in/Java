@@ -85,3 +85,5 @@
 //Problem43 Operators in Java
 
 //Problem44 Multilevel interface
+
+//Problem45 Hierarchical Inheritance
