@@ -87,3 +87,5 @@
 //Problem44 Multilevel interface
 
 //Problem45 Hierarchical Inheritance
+
+//Problem46 Abstarct class
